@@ -1,0 +1,21 @@
+body{
+    color: white;
+    background: pink;
+    font-size: 20px;
+}
+.heading{
+    width: 80%;
+    font-size: 40px;
+
+}
+.name_of_objects{
+    color: blue;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+p{
+    color: purple;
+}
